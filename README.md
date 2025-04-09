@@ -1,3 +1,7 @@
+## Este proyecto es complementario al desarrollo de api en php que puedes encontrar [AQUÍ](https://github.com/AlxMedit/Desarrollo-API-PHP?tab=readme-ov-file#1-introducci%C3%B3n) // https://github.com/AlxMedit/Desarrollo-API-PHP?tab=readme-ov-file#1-introducci%C3%B3n
+
+
+# Documentación de React
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
